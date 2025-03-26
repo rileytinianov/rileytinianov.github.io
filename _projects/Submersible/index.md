@@ -12,19 +12,16 @@ main-image: /Submarine_Front_Image.jpg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
+
+## Overview
+The submersible was designed with the intention of picking up and removing golf balls from lakes. It was equipped with two large syringes to control bouyancy, two PMDC motors with propellors, and a waterproof 180 degree servo. Weights were stuffed inside to account for the air stored within. Due to budget constraints, the project was primarily made out of spare parts and laser cut acrylic. 
+
+{% include image-gallery.html images="OpenDownView.png" height="400" %} 
+View of rack and pinion syringes without weights
+
 ### Header 3 
 Use this to have subsection if needed
-
-
-## Embedding images 
-### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+  
 
 ### Embeed images
 {% include image-gallery.html images="project2.jpg" height="400" %} 
