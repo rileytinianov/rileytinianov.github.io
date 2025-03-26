@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Remote Submersible
-description: This project was made for my junior design class, where we were given a budget of $150 and 6 weeks to make something useful.
-I designed all things mechatronic, including motor/servo integration, circuit design, and Arduino proramming. 
-
+description:  This project was made for my junior design class, where we were given a budget of $150 and 6 weeks 
+to make something useful. I designed all things mechatronic, including motor/servo integration, circuit design,
+and Arduino proramming. 
 skills: 
   - PCB Manufacturing
   - 3D Printing
   - Rapid Prototyping
   - Arduino
   - Laser Cutting
-
 main-image: /Submarine_Front_Image.jpg
 ---
 
