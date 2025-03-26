@@ -41,5 +41,12 @@ I designed and soldered a double-sided PCB to interface directly with the Arduin
 {% include image-gallery.html images="AssembledPCB.png, PCBSLD.png" height="300" %} 
 Assembled PCB and diagram
 
+## Machining 
+All metal components (chassis, motor mounts, supporting bars, PT controller) were designed with GD&T standards and machined in-house, either by waterjet or CNC machine. FEA simulations were performed on all load-bearing components to allow for a sufficient factor of safety. 
 
-test test
+{% include image-gallery.html images="WaterjetResults.jpg, GDandT.png, ExplodedPT.png" height="300" %} 
+
+## Wiring
+In an effort to keep wiring out of sight and safe, electronic elements were controlled using M12 6 position cables, which could be easily removed and adjusted without tools. A rechargable e-bike battery served as the power supply, which could be slid off a fixed mount for recharging. 
+
+{% include image-gallery.html images="Battery1.jpg, MotorDriver1.jpg" height="300" %} 
