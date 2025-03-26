@@ -27,6 +27,7 @@ Due to the nature of Cerebral Palsy, the device had 5 independent nodes for cont
 {% include image-gallery.html images="Hub1.png, Hub2.png" height="300" %} 
 
 
+
 ## Therapist Control
 The device could be controlled through a 2-axis potentiometer joystick by the therapist controller, which would immediately cancel user inputs. The therapist controller also had speed and duration knobs, which would control the speed of movement or the length of time movement persisted after the button was pressed. An emergency stop button cut power off to the motor drivers and engaged the drum brakes. The therapist also had access to a radio-controlled remote stop button. 
 
