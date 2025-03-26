@@ -22,7 +22,7 @@ View of rack and pinion syringes without weights
 ## Claw
 The claw was acrylic cut and modeled after a claw machine game, where a single linear input results in the actuation of all arms at once. This had to be prompted from inside the submersible, so servo wires were routed and sealed inside so the servo rotation could pull the arms together. 
 
-{% include image-gallery.html images="HoldingGolfBall.JPG" height="400" %} 
+{% include image-gallery.html images="HoldingGolfBall.jpg" height="400" %} 
 View of claw after actuation
 
 ## PCB
