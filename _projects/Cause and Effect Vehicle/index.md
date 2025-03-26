@@ -18,4 +18,4 @@ main-image: /therapistcontrols.jpg
 ## Overview
 For my year-long senior Capstone project, I led a team of 4 engineers in designing and manufacturing a safe and accessible device to be used in therapy sessions for children with Cerebral Palsy. The device was able to seat children aged 2-7 and respond to button presses or joystick inputs to move. The device could also be operated by the physical therapist to ensure user safety and tune parameters. 
 
-{% include image-gallery.html images="CapstoneWithShell.jpg" height="300" %} 
+{% include image-gallery.html images="CapstoneWithShell.jpg" height="400" %} 
