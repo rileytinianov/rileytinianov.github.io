@@ -49,10 +49,7 @@ skills:
     tools:
     - Solidworks
     - Fusion 360 (Autodesk)
-    - COMSOL (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
+    - COMSOL
   - category: Prototyping
     tools:
     - SLA
