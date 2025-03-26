@@ -16,8 +16,7 @@ main-image: /therapistcontrols.jpg
 ## Overview
 For my year-long senior Capstone project, I led a team of 4 engineers in designing and manufacturing a safe and accessible device to be used in therapy sessions for children with Cerebral Palsy. The device was able to seat children aged 2-7 and respond to button presses or joystick inputs to move. The device could also be operated by the physical therapist to ensure user safety and tune parameters. 
 
-{% include image-gallery.html images="CapstoneWithShell.jpg, ChildDriving.jpg" height="300" %} 
-
+{% include image-gallery.html images="https://i.postimg.cc/j5Ndmxyg/Capstone-With-Shell.jpg, https://i.postimg.cc/G3FmjpL9/Child-Driving.jpg" height="300" %} 
 
 ## User Control
 Due to the nature of Cerebral Palsy, the device had 5 independent nodes for control, each of which could support four buttons to control all mdodes of movement for the device. These nodes were spaced throughout the vehicle to allow for actuation using any limb, or by head movement if the patient struggled with limb control. The user moved the device by either pressing and holding or simply pressing the buttons, depending on their ability. 
