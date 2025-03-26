@@ -26,9 +26,13 @@ The claw was acrylic cut and modeled after a claw machine game, where a single l
 View of claw after actuation
 
 ## PCB
-I designed and manufactured a PCB to mount the propeller motor drivers and interface directly with the Arduino Uno used. Screw terminals were used to connect the PCB to the syringe motor drivers and servo. The system was powered using 8 AA batteries in series. 
+I designed and manufactured a PCB to mount the propeller motor drivers and interface directly with the Arduino Uno used. Screw terminals were used to connect the PCB to the syringe motor drivers and servo. The system was powered using 8 AA batteries in series. Commands were sent to the Arduino through keyboard presses to control the device and actuate the claw. 
  
-{% include image-gallery.html images="SLD.png", "PCBSub.png" height="400" %} 
+{% include image-gallery.html images="SLD.png, PCBSub.png" height="400" %} 
+Single-Line Diagram and PCB outline
+
+{% include image-gallery.html images="HoldingPCB.png" height="400" %} 
+
 
 ## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
