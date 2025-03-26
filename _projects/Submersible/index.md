@@ -19,14 +19,17 @@ The submersible was designed with the intention of picking up and removing golf 
 {% include image-gallery.html images="OpenDownView.PNG" height="400" %} 
 View of rack and pinion syringes without weights
 
-### Header 3 
-Use this to have subsection if needed
-  
+## Claw
+The claw was acrylic cut and modeled after a claw machine game, where a single linear input results in the actuation of all arms at once. This had to be prompted from inside the submersible, so servo wires were routed and sealed inside so the servo rotation could pull the arms together. 
 
-### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
+{% include image-gallery.html images="HoldingGolfBall.JPG" height="400" %} 
+View of claw after actuation
 
+## PCB
+I designed and manufactured a PCB to mount the propeller motor drivers and interface directly with the Arduino Uno used. Screw terminals were used to connect the PCB to the syringe motor drivers and servo. The system was powered using 8 AA batteries in series. 
+ 
+{% include image-gallery.html images="SLD.png" height="400" %} 
+{% include image-gallery.html images="PCBSub.png" height="200" %} 
 
 ## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
