@@ -1,9 +1,14 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: Cause-and-Effect Vehicle
+description:  I designed a Cause-and-Effect vehicle to be used by children with Cerebral Palsy in physical therapy settings. I led the design and manufacturing for the chassis, drivetrain, and electronic hardware. This was my senior Capstone project. 
 skills: 
-- skill 1
-- skill 2
-main-image: /project.webp 
+- Solidworks
+- Structural analysis
+- GD&T
+- System Integration
+- PCB Design
+- Soldering
+- CNC
+main-image: /Capstone_Front_Image.jpg 
 ---
