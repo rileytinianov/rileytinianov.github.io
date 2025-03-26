@@ -15,6 +15,11 @@ title: Riley Tinianov's Portfolio # This is what shows up in the tab of the brow
 name: Riley Tinianov
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
+  I'm a mechanical engineering master's student in my final year, interested in aerospace, 
+  robotics, and sustainability. I love hands-on projects, whether it's designing, building,
+  or just figuring out how things work. As I head into industry, I'm looking for a fulfilling
+  job where I can make a real impact. 
+  
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -25,7 +30,7 @@ profile_image: ./assets/images/profile-image/2024headshot.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: ./assets/resume/Resume__Parabilis_.pdf
+resume-url: ./assets/resume/Tinianov_Resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
