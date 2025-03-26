@@ -10,5 +10,5 @@ skills:
 - PCB Design
 - Soldering
 - CNC
-main-image: /Capstone_Front_Image.jpg 
+main-image: /therapistcontrols.jpg 
 ---
