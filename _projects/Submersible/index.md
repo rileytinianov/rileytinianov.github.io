@@ -31,7 +31,7 @@ I designed and manufactured a PCB to mount the propeller motor drivers and inter
 {% include image-gallery.html images="SLD.png, PCBSub.png" height="400" %} 
 Single-Line Diagram and PCB outline
 
-{% include image-gallery.html images="HoldingPCB.png" height="400" %} 
+{% include image-gallery.html images="HoldingPCB.jpg" height="400" %} 
 
 
 ## Embedding youtube video
