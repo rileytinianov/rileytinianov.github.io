@@ -22,16 +22,14 @@ View of rack and pinion syringes without weights
 ## Claw
 The claw was acrylic cut and modeled after a claw machine game, where a single linear input results in the actuation of all arms at once. This had to be prompted from inside the submersible, so servo wires were routed and sealed inside so the servo rotation could pull the arms together. 
 
-{% include image-gallery.html images="HoldingGolfBall.jpg" height="400" %} 
+{% include image-gallery.html images="HoldingGolfBall.jpg" height="300" %} 
 View of claw after actuation
 
 ## PCB
 I designed and manufactured a PCB to mount the propeller motor drivers and interface directly with the Arduino Uno used. Screw terminals were used to connect the PCB to the syringe motor drivers and servo. The system was powered using 8 AA batteries in series. Commands were sent to the Arduino through keyboard presses to control the device and actuate the claw. 
  
-{% include image-gallery.html images="SLD.png, PCBSub.png" height="400" %} 
+{% include image-gallery.html images="SLD.png, PCBSub.png, HoldingPCB.jpg" height="300" %} 
 Single-Line Diagram and PCB outline
-
-{% include image-gallery.html images="HoldingPCB.jpg" height="400" %} 
 
 
 ## Embedding youtube video
