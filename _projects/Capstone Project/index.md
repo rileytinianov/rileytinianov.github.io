@@ -34,7 +34,6 @@ The device could be controlled through a 2-axis potentiometer joystick by the th
 {% include image-gallery.html images="PTController.png, RemoteStop.png" height="300" %} 
 Physical Therapist controller and remote stop
 
-{% include image-gallery.html images="RemoteStopReal.png" height="300" %} 
 
 ## PCB
 I designed and soldered a double-sided PCB to interface directly with the Arduino Mega used to control the device. This PCB was made overseas due to our in-house machines not being suitable for double-sided boards.
