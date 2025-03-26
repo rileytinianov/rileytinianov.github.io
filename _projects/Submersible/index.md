@@ -16,8 +16,8 @@ main-image: /Submarine_Front_Image.jpg
 ## Overview
 The submersible was designed with the intention of picking up and removing golf balls from lakes. It was equipped with two large syringes to control bouyancy, two PMDC motors with propellors, and a waterproof 180 degree servo. Weights were stuffed inside to account for the air stored within. Due to budget constraints, the project was primarily made out of spare parts and laser cut acrylic. 
 
-{% include image-gallery.html images="OpenDownView.PNG" height="400" %} 
-View of rack and pinion syringes without weights
+{% include image-gallery.html images="OpenDownView.PNG, motormount.jpg" height="300" %} 
+View of rack and pinion syringes and 3D printed motor mounts
 
 ## Claw
 The claw was acrylic cut and modeled after a claw machine game, where a single linear input results in the actuation of all arms at once. This had to be prompted from inside the submersible, so servo wires were routed and sealed inside so the servo rotation could pull the arms together. 
