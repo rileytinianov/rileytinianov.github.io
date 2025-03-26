@@ -19,6 +19,8 @@ For my year-long senior Capstone project, I led a team of 4 engineers in designi
 {% include gallery2.html images="imagesreal/CapstoneWithShell.jpg" height="300" %} 
 ![Test Image](/imagesreal/CapstoneWithShell.jpg)
 ![Test Image](/imagesreal/Hub1.png)
+<img src="/imagesreal/Hub1.png" height="100" alt="Hub1">
+
 
 ## User Control
 Due to the nature of Cerebral Palsy, the device had 5 independent nodes for control, each of which could support four buttons to control all mdodes of movement for the device. These nodes were spaced throughout the vehicle to allow for actuation using any limb, or by head movement if the patient struggled with limb control. The user moved the device by either pressing and holding or simply pressing the buttons, depending on their ability. 
