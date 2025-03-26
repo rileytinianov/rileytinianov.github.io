@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote Submersible
+title: Remote Submersible 
 description:  This project was made for my junior design class, where we were given a budget of $150 and 6 weeks 
 to make something useful. I designed all things mechatronic, including motor/servo integration, circuit design,
 and Arduino proramming. 
