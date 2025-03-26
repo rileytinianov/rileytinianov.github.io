@@ -16,7 +16,7 @@ main-image: /Submarine_Front_Image.jpg
 ## Overview
 The submersible was designed with the intention of picking up and removing golf balls from lakes. It was equipped with two large syringes to control bouyancy, two PMDC motors with propellors, and a waterproof 180 degree servo. Weights were stuffed inside to account for the air stored within. Due to budget constraints, the project was primarily made out of spare parts and laser cut acrylic. 
 
-{% include image-gallery.html images="OpenDownView.png" height="400" %} 
+{% include image-gallery.html images="OpenDownView.PNG" height="400" %} 
 View of rack and pinion syringes without weights
 
 ### Header 3 
