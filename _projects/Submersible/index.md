@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Cause-and-Effect Vehicle
-description:  I designed a Cause-and-Effect vehicle to be used by children with Cerebral Palsy in physical therapy settings. I led the design and manufacturing for the chassis, drivetrain, and electronic hardware. This was my senior Capstone project. 
+title: Remote Submersible
+description:  This project was made for my junior design class, where we were given a budget of $150 and 6 weeks to make something useful. I designed all things mechatronic, including motor/servo integration, circuit design, and the Arduino programming.
 skills: 
-- Solidworks
-- Structural analysis
-- GD&T
-- System Integration
-- PCB Design
-- Soldering
-- CNC
-main-image: /therapistcontrols.jpg 
+- PCB Manufacturing
+- 3D Printing
+- Rapid Prototyping
+- Arduino
+- Laser Cutting
+main-image: /Submarine_Front_Image.jpg 
 ---
 
 ---
