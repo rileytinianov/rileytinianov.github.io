@@ -38,7 +38,6 @@ The device could be controlled through a 2-axis potentiometer joystick by the th
   <img src="/imagesreal/RemoteStopped.jpg" height="300" alt="Hub2">
 </div>
 Physical Therapist controller and remote stop
-
 ---
 
 ## PCB
@@ -66,3 +65,4 @@ In an effort to keep wiring out of sight and safe, electronic elements were cont
   <img src="/imagesreal/Battery1.jpg" height="230" alt="Hub1">
   <img src="/imagesreal/MotorDriver1.jpg" height="230" alt="Hub2">
 </div>
+---
