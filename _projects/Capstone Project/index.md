@@ -35,7 +35,7 @@ The device could be controlled through a 2-axis potentiometer joystick by the th
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/PTController.png" height="300" alt="Hub1">
-  <img src="/imagesreal/RemoteStop.png" height="300" alt="Hub2">
+  <img src="/imagesreal/RemoteStopReal.png" height="300" alt="Hub2">
 </div>
 Physical Therapist controller and remote stop
 
