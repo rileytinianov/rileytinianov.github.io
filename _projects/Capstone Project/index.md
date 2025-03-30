@@ -10,7 +10,8 @@ skills:
 - PCB Design
 - Soldering
 - CNC
-main-image: /therapistcontrols.jpg 
+main-image: /therapistcontrols.jpg
+
 ---
 
 ## Overview
@@ -19,6 +20,7 @@ For my year-long senior Capstone project, I led a team of 4 engineers in designi
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/CapstoneWithShell.jpg" height="300" alt="Hub1">
 </div>
+
 ---
 
 ## User Control
@@ -28,6 +30,7 @@ Due to the nature of Cerebral Palsy, the device had 5 independent nodes for cont
   <img src="/imagesreal/Hub1.png" height="300" alt="Hub1">
   <img src="/imagesreal/Hub2.png" height="300" alt="Hub2">
 </div>
+
 ---
 
 ## Therapist Control
@@ -38,6 +41,7 @@ The device could be controlled through a 2-axis potentiometer joystick by the th
   <img src="/imagesreal/RemoteStopped.jpg" height="300" alt="Hub2">
 </div>
 Physical Therapist controller and remote stop
+
 ---
 
 ## PCB
@@ -48,6 +52,7 @@ I designed and soldered a double-sided PCB to interface directly with the Arduin
   <img src="/imagesreal/PCBSLD.png" height="250" alt="Hub2">
 </div>
 Assembled PCB and diagram
+
 ---
 
 ## Machining 
@@ -57,6 +62,7 @@ All metal components (chassis, motor mounts, supporting bars, PT controller) wer
   <img src="/imagesreal/GDandT.png" height="250" alt="Hub2">
   <img src="/imagesreal/ExplodedPT.png" height="250" alt="Hub3">
 </div>
+
 ---
 
 ## Wiring
@@ -65,4 +71,5 @@ In an effort to keep wiring out of sight and safe, electronic elements were cont
   <img src="/imagesreal/Battery1.jpg" height="230" alt="Hub1">
   <img src="/imagesreal/MotorDriver1.jpg" height="230" alt="Hub2">
 </div>
+
 ---
