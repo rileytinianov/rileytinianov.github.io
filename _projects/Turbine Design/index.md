@@ -16,8 +16,8 @@ main-image: /FullTurbine.jpg
 I chose airfoil S8038 for its high Cl/Cd at low Re. By writing a program to iterate through Reynolds numbers and angles of attack, I was able to optimize the chord length across the blade. This blade was modeled in Solidworks and printed with SLS. The root bending moment was found across the blade to ensure it would not fail. 
 
 <div style="display: flex; gap: 10px;">
+  <img src="/imagesreal/printedturbine.jpg" height="280" alt="Hub2">
   <img src="/imagesreal/ChordRefinement.png" height="300" alt="Hub1">
-  <img src="/imagesreal/printedturbine.jpg" height="300" alt="Hub2">
   <img src="/imagesreal/ForceDistribution.png" height="300" alt="Hub3">
 </div>
 
