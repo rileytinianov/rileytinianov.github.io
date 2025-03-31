@@ -40,7 +40,7 @@ The device could be controlled through a 2-axis potentiometer joystick by the th
   <img src="/imagesreal/PTController.png" height="300" alt="Hub1">
   <img src="/imagesreal/RemoteStopped.jpg" height="300" alt="Hub2">
 </div>
-Physical Therapist controller and remote stop
+Physical therapist controller and remote stop
 
 ---
 
@@ -62,7 +62,7 @@ All metal components (chassis, motor mounts, supporting bars, PT controller) wer
   <img src="/imagesreal/GDandT.png" height="250" alt="Hub2">
   <img src="/imagesreal/ExplodedPT.png" height="250" alt="Hub3">
 </div>
-
+Waterjet chassis, CAD tolerencing for waterejetting, and exploded PT controller drawing
 ---
 
 ## Wiring
@@ -71,5 +71,5 @@ In an effort to keep wiring out of sight and safe, electronic elements were cont
   <img src="/imagesreal/Battery1.jpg" height="230" alt="Hub1">
   <img src="/imagesreal/MotorDriver1.jpg" height="230" alt="Hub2">
 </div>
-
+Integrated e-bike battery and motor controller box
 ---
