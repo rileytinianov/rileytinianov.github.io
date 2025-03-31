@@ -16,24 +16,22 @@ main-image: /therapistcontrols.jpg
 I chose airfoil S8038 for its high Cl/Cd at low Re. By writing a program to iterate through Reynolds numbers and angles of attack, I was able to optimize the chord length across the blade. This blade was modeled in Solidworks and printed with SLS. The root bending moment was found across the blade to ensure it would not fail. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/CapstoneWithShell.jpg" height="300" alt="Hub1">
+  <img src="/imagesreal/ChordRefinement.png" height="300" alt="Hub1">
+  <img src="/imagesreal/printedturbine.jpg" height="300" alt="Hub2">
+  <img src="/imagesreal/ForceDistribution.png" height="300" alt="Hub3">
 </div>
-
-ADD CHORD FXN X, PRINT, FORCE DISTRIBUTION
 
 
 ## Turbine Testing
-Due to the nature of Cerebral Palsy, the device had 5 independent nodes for control, each of which could support four buttons to control all modes of movement for the device. These nodes were spaced throughout the vehicle to allow for actuation using any limb, or by head movement if the patient struggled with limb control. The user moved the device by either pressing and holding or simply pressing the buttons, depending on their ability. 
+The turbine was tested using a small-scale wind tunnel and PMDC motor. The turbine's power generation could be deduced by spanning a resistor across the motor terminals and measuring the speed of rotation. The experimental results aligned with the theoretical performances calculations, although there were some optimal tip speed ratio discrepancies. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/Hub1.png" height="300" alt="Hub1">
-  <img src="/imagesreal/Hub2.png" height="300" alt="Hub2">
+  <img src="/imagesreal/TunnelTesting.png" height="300" alt="Hub1">
 </div>
-
 ---
 
-## Therapist Control
-The device could be controlled through a 2-axis potentiometer joystick by the therapist controller, which would immediately cancel user inputs. The therapist controller also had speed and duration knobs, which would control the speed of movement or the length of time movement persisted after the button was pressed. An emergency stop button cut power off to the motor drivers and engaged the drum brakes. The therapist also had access to a radio-controlled remote stop button. 
+## Entrainment Research
+I assisted in research 
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/PTController.png" height="300" alt="Hub1">
