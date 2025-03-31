@@ -73,4 +73,5 @@ In an effort to keep wiring out of sight and safe, electronic elements were cont
   <img src="/imagesreal/MotorDriver1.jpg" height="230" alt="Hub2">
 </div>
 Integrated e-bike battery and motor controller box
+
 ---
