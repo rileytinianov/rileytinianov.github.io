@@ -23,7 +23,7 @@ I chose airfoil S8038 for its high Cl/Cd at low Re. By writing a program to iter
 Printed turbine and plots showing chord length and force experienced
 
 ## Turbine Testing
-The turbine was tested using a small-scale wind tunnel and PMDC motor. The turbine's power generation could be deduced by spanning a resistor across the motor terminals and measuring the speed of rotation. The experimental results aligned with the theoretical performances calculations, although there were some optimal tip speed ratio discrepancies. 
+The turbine was tested using a small-scale wind tunnel and PMDC motor. The turbine's power generation could be deduced by spanning a resistor across the motor terminals and measuring the speed of rotation. The experimental results aligned with the theoretical performance calculations, although there were some optimal tip speed ratio discrepancies. 
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/TunnelTesting.PNG" height="280" alt="Hub1">
@@ -32,7 +32,7 @@ Testing wind turbine
 ---
 
 ## Entrainment Research
-I assisted in research confirming an annular wake model for airborne wind turbines, closely following the entrainment theory for wind turbines by Dr. Luzzatto-Fegiz (pictured above). These experiments used porous disc to generate wakes representing the area swept by the turbine blades. 
+I assisted in research confirming an annular wake model for airborne wind turbines, closely following the entrainment theory for wind turbines by Dr. Luzzatto-Fegiz (pictured above). These experiments used porous discs (representing the area swept by the turbine blades) to generate annular wakes. 
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/Scanned.jpeg" height="270" alt="Hub1">
