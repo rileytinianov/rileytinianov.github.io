@@ -8,7 +8,7 @@ skills:
 - Experimental Process
 - Matlab
 - Data Interpretation
-main-image: /therapistcontrols.jpg
+main-image: /FullTurbine.jpg
 
 ---
 
