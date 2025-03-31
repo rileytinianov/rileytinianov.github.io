@@ -26,18 +26,22 @@ I chose airfoil S8038 for its high Cl/Cd at low Re. By writing a program to iter
 The turbine was tested using a small-scale wind tunnel and PMDC motor. The turbine's power generation could be deduced by spanning a resistor across the motor terminals and measuring the speed of rotation. The experimental results aligned with the theoretical performances calculations, although there were some optimal tip speed ratio discrepancies. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/TunnelTesting.png" height="300" alt="Hub1">
+  <img src="/imagesreal/TunnelTesting.PNG" height="300" alt="Hub1">
 </div>
 ---
 
 ## Entrainment Research
-I assisted in research 
+I assisted in research confirming an annular wake model for airborne wind turbines, closely following the entrainment theory for wind turbines by Dr. Luzzatto-Fegiz (pictured above). These experiments used porous disc to generate wakes representing the area swept by the turbine blades. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/PTController.png" height="300" alt="Hub1">
-  <img src="/imagesreal/RemoteStopped.jpg" height="300" alt="Hub2">
+  <img src="/imagesreal/Scanned.jpeg" height="300" alt="Hub1">
+  <img src="/imagesreal/StrungUp.jpg" height="300" alt="Hub2">
 </div>
-Physical Therapist controller and remote stop
+
+The air pressure was measured at various distances beyond the disc to find the affected velocity across the wake profile. 
+<div style="display: flex; gap: 10px;">
+  <img src="/imagesreal/Al10v1.png" height="300" alt="Hub1">
+</div>
 
 ---
 
