@@ -40,7 +40,7 @@ I assisted in research confirming an annular wake model for airborne wind turbin
 
 The air pressure was measured at various distances beyond the disc to find the affected velocity across the wake profile. 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/AL10v1.png" height="200" alt="Hub1">
+  <img src="/imagesreal/AL10v1.png" height="400" alt="Hub1">
 </div>
 
 ---
