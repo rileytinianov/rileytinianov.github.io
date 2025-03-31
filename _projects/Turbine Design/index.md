@@ -20,7 +20,7 @@ I chose airfoil S8038 for its high Cl/Cd at low Re. By writing a program to iter
   <img src="/imagesreal/ChordRefinement.png" height="300" alt="Hub1">
   <img src="/imagesreal/ForceDistribution.png" height="300" alt="Hub3">
 </div>
-
+Printed turbine and plots showing chord length and force experienced
 
 ## Turbine Testing
 The turbine was tested using a small-scale wind tunnel and PMDC motor. The turbine's power generation could be deduced by spanning a resistor across the motor terminals and measuring the speed of rotation. The experimental results aligned with the theoretical performances calculations, although there were some optimal tip speed ratio discrepancies. 
@@ -28,6 +28,7 @@ The turbine was tested using a small-scale wind tunnel and PMDC motor. The turbi
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/TunnelTesting.PNG" height="280" alt="Hub1">
 </div>
+Testing wind turbine 
 ---
 
 ## Entrainment Research
@@ -37,6 +38,7 @@ I assisted in research confirming an annular wake model for airborne wind turbin
   <img src="/imagesreal/Scanned.jpeg" height="270" alt="Hub1">
   <img src="/imagesreal/Stringing.jpg" height="270" alt="Hub2">
 </div>
+Scanned aluminum disc and the wind tunnel testing apparatus
 
 <br>
 
@@ -44,5 +46,5 @@ The air pressure was measured at various distances beyond the disc to find the a
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/AL10v1.png" height="400" alt="Hub1">
 </div>
-
+Air speed plot showing the wake effect
 ---
