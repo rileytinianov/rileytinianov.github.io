@@ -29,6 +29,7 @@ The turbine was tested using a small-scale wind tunnel and PMDC motor. The turbi
   <img src="/imagesreal/TunnelTesting.PNG" height="280" alt="Hub1">
 </div>
 Testing wind turbine 
+
 ---
 
 ## Entrainment Research
@@ -39,7 +40,6 @@ I assisted in research confirming an annular wake model for airborne wind turbin
   <img src="/imagesreal/Stringing.jpg" height="270" alt="Hub2">
 </div>
 Scanned aluminum disc and the wind tunnel testing apparatus
-
 <br>
 
 The air pressure was measured at various distances beyond the disc to find the affected velocity across the wake profile. 
@@ -47,4 +47,5 @@ The air pressure was measured at various distances beyond the disc to find the a
   <img src="/imagesreal/AL10v1.png" height="400" alt="Hub1">
 </div>
 Air speed plot showing the wake effect
+
 ---
