@@ -63,6 +63,7 @@ All metal components (chassis, motor mounts, supporting bars, PT controller) wer
   <img src="/imagesreal/ExplodedPT.png" height="250" alt="Hub3">
 </div>
 Waterjet chassis, CAD tolerancing for waterjetting, and exploded PT controller drawing
+
 ---
 
 ## Wiring
