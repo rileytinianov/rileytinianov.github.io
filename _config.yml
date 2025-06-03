@@ -13,7 +13,7 @@ title: Riley Tinianov's Portfolio # This is what shows up in the tab of the brow
 
 # Hero Section
 name: Riley Tinianov
-headline: Building, learning, and making cool stuff
+headline: Building, learning, making cool stuff
 description: >- # dont remove this line. this will ignore all new lines until the next section
 
   Thanks for taking the time to view my portfolio! I'm a mechanical engineering student in the 
@@ -28,7 +28,7 @@ profile_image: ./assets/images/profile-image/2024headshot.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: ./assets/resume/Tinianov_Resume.pdf
+resume-url: ./assets/resume/Tinianov_Resume__Aero_.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
