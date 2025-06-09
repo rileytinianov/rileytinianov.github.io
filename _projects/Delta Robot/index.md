@@ -17,7 +17,7 @@ Delta robots are a type of pick-and-place robot, often used in the food industry
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/FullRobot.png" height="300" alt="Hub1">
 </div>
-View of rack and pinion syringes and 3D printed motor mounts
+View of robot after first assembly
 
 ---
 
@@ -25,9 +25,9 @@ View of rack and pinion syringes and 3D printed motor mounts
 All parts of the robot were designed and assembled in Solidworks to ensure meshing between components. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/ASSEM - Full Robot.PNG" height="300" alt="Hub1">
+  <img src="/imagesreal/ASSEM - Full Robot.PNG" height="500" alt="Hub1">
 </div>
-View of claw after actuation
+3D model of robot
 
 ---
 
@@ -37,7 +37,7 @@ The robot is made primarily of PLA and acrylic, which were 3D-printed and laser 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/3D parts.png" height="300" alt="Hub1">
 </div>
-Single-Line Diagram and PCB outline
+Initial acrylic design and assembly
 
 ---
 
