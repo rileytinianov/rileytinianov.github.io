@@ -32,7 +32,7 @@ View of claw after actuation
 ---
 
 ## Manufacturing
-The robot is made primarily of PLA and acrylic, which were 3D-printed and laser cut respectively. All universal joints hinge on wooden dowel axles, which were sawed and lathed to ensure proper fit. The metal components were ordered directly from McMaster Carr. GD&T specifications were followed to ensure proper hole sizes and interference fits. 
+The robot is made primarily of PLA and acrylic, which were 3D-printed and laser cut respectively. All universal joints hinge on wooden dowel axles, which were sawed and lathed to ensure proper fit. Any steel components were ordered directly from McMaster Carr and modified in-house. GD&T specifications were followed to ensure proper hole sizes and interference fits. 
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/3D parts.png" height="300" alt="Hub1">
