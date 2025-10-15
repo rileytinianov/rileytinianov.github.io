@@ -13,7 +13,7 @@ skills:
 - Customer Reporting
 main-image: /GraniterockHQ.jpg
 
----
+--- 
 
 ## Agrivoltaics - Overview
 Agrivoltaics is the practice of placing solar panels over orchards or vegetable fields to generate electricity while preventing crop overheating or sunburn. I led the 3D design, energy modeling, and data analysis of over 670 agrivoltaic sites across Washington State. This project was funded by the Washington Department of Commerce to distribute clean energy grants and involved collaboration with The Nature Conservancy and American Farmland Trust. The images here are sourced from our published report, found [here](https://www.researchgate.net/publication/393794180_Low_hanging_fruit_for_Washington's_energy_future_Agrivoltaic_feasibility_for_agricultural_and_energy_resilience_in_the_Evergreen_State). I've co-authored two more reports with broader modeling, which are being published by the Spatial Climate Solutions Lab.
