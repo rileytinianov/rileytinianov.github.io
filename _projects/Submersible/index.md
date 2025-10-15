@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote Submersible
+title: Junior Design Project - Remote Submersible
 description:  This project was made for my junior design class, where we were given a budget of $150 and 6 weeks to make something useful. I designed all of the mechatronic components, including handling motor/servo integration, circuit design, and the Arduino programming.
 skills: 
 - PCB Manufacturing
