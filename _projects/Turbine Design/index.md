@@ -18,7 +18,7 @@ main-image: /SreeramPaper.jpg
 I used high-speed cameras to capture videos of capillary bridges suspended between slowly separating spheres. By post-processing the image with Python, I was able to measure the specific volume for every frame and compare it to a continuous measurement of the force between particles. This work is being published as Sreeram Rajesh's PhD dissertation on axial forces in liquid bridges. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/SreeramBridgeImage.jpg" height="270" alt="Hub1">
+  <img src="/imagesreal/SreeramMultipleBridgesPaper.jpg" height="270" alt="Hub1">
   <img src="/imagesreal/SreeramBreakingForce.jpg" height="270" alt="Hub2">
 </div>
 My image of a quasi-static capillary bridge and the corresponding length of bridge before rupture 
