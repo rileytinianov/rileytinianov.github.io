@@ -46,10 +46,11 @@ Apple sunburn risk and percentage yield of strawberries at representative Washin
 Energy metrics like capacity factor, energy density, and LCOE were evaulated at each site location to determine the most profitable locations for agrivoltaic arrays. Weather data was downloaded directly from NREL and AWN databases and solar production was simulated over a ten year period for every location and agrivoltaic design. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/ChordRefinement.png" height="300" alt="Hub1">
-  <img src="/imagesreal/ForceDistribution.png" height="300" alt="Hub3">
+  <img src="/imagesreal/EnergyMetricsTenSites.jpg" height="300" alt="Hub1">
 </div>
-My functions of chord length and force calculations over the length of the blade
+A. Energy density of three designs at representative locations 
+B. Raw Global Horizontal Irradiance values across Washington State
+C. Representative energy density for agrivoltaic designs compared to PV-only solar farms
 
 ---
 
