@@ -16,9 +16,10 @@ main-image: /ASSEM - Full Robot.PNG
 Delta robots are a type of pick-and-place robot, often used in the food industry or on assembly lines. This delta robot was designed using acrylic, PLA, and parts from McMaster-Carr. A modified CNC kit and Arduino shield were used to control the motors. The end goal of this solo project was to outfit the end effector with a laser head to engrave pictures or symbols during demos. All parts of the robot were designed and assembled in Solidworks with to proper GD&T standards to ensure proper hole sizes and interference fits. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/ASSEM - Full Robot.PNG" height="500" alt="Hub1">
+  <img src="/imagesreal/ASSEM - Full Robot.PNG" height="300" alt="Hub1">
 </div>
-3D model of robot
+
+3D model of robot in Solidworks
 
 ---
 
