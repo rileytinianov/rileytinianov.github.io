@@ -69,7 +69,7 @@ My functions of chord length and force calculations over the length of the blade
 I worked for two years at Mynt Systems, beginning as an Intern and getting promoted to Junior Design Engineer. My work spanned all the full-cycle PV design and installation process, working on both the design mock-ups during the sales process and for-construction designs. I also helped with BOM generation and supply during the construction process, as well as doing client-side site reporting and repair. My time at Mynt ended in the Spring Quarter of my Senior year, when I started TAing undergraduate classes.  
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/MyntLogo.jpg" height="300" alt="Hub3">
+  <img src="/imagesreal/MyntLogo_Crop.jpg" height="300" alt="Hub3">
 </div>
 
 ---
