@@ -43,6 +43,7 @@ Batch calls to PVSyst were made using the PVSyst CLI tool, which I operated thro
 Apple sunburn risk and percentage yield of strawberries at representative Washington locations
 
 ## Agrivoltaics - Energy Metrics
+Energy metrics like capacity factor, energy density, and LCOE were evaulated at each site location to determine the most profitable locations for agrivoltaic arrays. Weather data was downloaded directly from NREL and AWN databases and solar production was simulated over a ten year period for every location and agrivoltaic design. 
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/ChordRefinement.png" height="300" alt="Hub1">
