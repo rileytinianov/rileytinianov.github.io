@@ -19,7 +19,7 @@ Delta robots are a type of pick-and-place robot, often used in the food industry
   <img src="/imagesreal/ASSEM - Full Robot.PNG" height="300" alt="Hub1">
 </div>
 
-3D model of robot in Solidworks
+3D model of the delta robot in Solidworks
 
 ---
 
@@ -34,5 +34,10 @@ Initial acrylic design and assembly
 
 ---
 
-## Air Motor 
+## Air Motor - Tolerancing and Manufacturing
+I made a compressed air motor as part of my undergraduate machine shop class at UC Santa Barbara. This project involved tolerancing and machining 6 seperate parts from steel, aluminum and brass stock. During the project, I manufactured the parts from engineering drawings using a drill press, lathe, and CNC machine. My motor reached speeds of 2500+ RPM when compressed air was applied to the nozzle. 
 
+<div style="display: flex; gap: 10px;">
+  <img src="/imagesreal/3D parts.png" height="300" alt="Hub1">
+</div>
+Image of completed air motor
