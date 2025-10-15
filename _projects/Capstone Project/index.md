@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cause-and-Effect Vehicle
-description:  I designed a Cause-and-Effect vehicle to be used by children with Cerebral Palsy in physical therapy settings. I led the design and manufacturing for the chassis, drivetrain, and electronic hardware. This was my senior Capstone project and won the Mech E Top Technical Achievement award. 
+title: Senior Capstone - Therapy Vehicle
+description:  My team designed a Cause-and-Effect vehicle to be used by children with Cerebral Palsy in physical therapy settings. I led the design and manufacturing for the chassis, drivetrain, and electronic hardware. This was my senior Capstone project and won the Mech E Top Technical Achievement award. 
 skills: 
 - Solidworks
 - Structural analysis
@@ -40,23 +40,23 @@ The device could be controlled through a 2-axis potentiometer joystick by the th
   <img src="/imagesreal/PTController.png" height="300" alt="Hub1">
   <img src="/imagesreal/RemoteStopped.jpg" height="300" alt="Hub2">
 </div>
-Physical therapist controller and remote stop
+Physical therapist controller and Bluetooth-controlled remote stop button
 
 ---
 
 ## PCB
-I designed and soldered a double-sided PCB to interface directly with the Arduino Mega used to control the device. This PCB was made overseas due to our in-house machines not being suitable for double-sided boards.
+I designed and soldered a double-sided PCB to interface directly with the Arduino Mega used to control the device. This PCB was made overseas due to our in-house machines not being suitable for double-sided boards. The controller could switch between four modes of operation and was hardwired to the child-actuated control ports for reliability.
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/AssembledPCB.png" height="250" alt="Hub1">
   <img src="/imagesreal/PCBSLD.png" height="250" alt="Hub2">
 </div>
-Assembled PCB and diagram
+Assembled PCB and corresponding circuit diagram
 
 ---
 
 ## Machining 
-All metal components (chassis, motor mounts, supporting bars, PT controller) were designed with GD&T standards and machined in-house, either by waterjet or CNC machine. FEA simulations were performed on all load-bearing components to allow for a sufficient factor of safety. 
+All metal components (chassis, motor mounts, supporting bars, PT controller) were designed with GD&T standards and machined in-house, either by waterjet or CNC machine. Static FEA simulations were performed on all load-bearing components to allow for a sufficient factor of safety. 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/Waterjet.jpg" height="250" alt="Hub1">
   <img src="/imagesreal/GDandT.png" height="250" alt="Hub2">
@@ -67,7 +67,7 @@ Waterjet chassis, CAD tolerancing for waterjetting, and exploded PT controller d
 ---
 
 ## Wiring
-In an effort to keep wiring out of sight and safe, electronic elements were controlled using M12 6-position cables, which could be easily removed and adjusted without tools. A rechargeable e-bike battery served as the power supply, which could be slid off a fixed mount for recharging. 
+In an effort to keep wiring out of sight and safe, electronic elements were controlled using M12 6-position cables, which could be easily removed and adjusted without tools. A rechargeable e-bike battery served as the power supply, which was slid on or off of a fixed mount for recharging. 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/Battery1.jpg" height="230" alt="Hub1">
   <img src="/imagesreal/MotorDriver1.jpg" height="230" alt="Hub2">
