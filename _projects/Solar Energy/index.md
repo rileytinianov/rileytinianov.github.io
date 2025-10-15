@@ -77,29 +77,25 @@ Testing wind turbine with a wind generator and hot wire anemometer
 
 
 ## Industrial Solar - Site Design and Modeling
+I modeled over 50+ rooftop solar arrays and carports during my time at Mynt Systems. These included PE-approved permitted designs, as well as post-construction mock-ups to be used for generation verification or as a sales resources. For-construction arrays and building plans were developed using AutoCAD, while production simulations and verification models were created in Helioscope.
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
-  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
+  <img src="/imagesreal/HelioscopeDrone.jpg" height="250" alt="Hub2">
+  <img src="/imagesreal/HelioscopeSLD.jpg" height="250" alt="Hub1">
 </div>
-Testing wind turbine with a wind generator and hot wire anemometer
+Post-construction Helioscope model and corresponding SLD
 
 ---
 
 ## Industrial Solar - Production Metrics and Reporting
+I generated monthly reports using actual vs. synthesized production data as part of my role on the site management and client-facing side at Mynt Systems. Prior to my inclusion on the team, reports were generated manually and had an average turnaround time of three days. I hired and managed a third-party contractor to write PHP code and scrape the SolarEdge API. I then automated the report generation process in JavaScript to generate 50+ monthly production reports within the hour. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
-  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
+
 </div>
-Testing wind turbine with a wind generator and hot wire anemometer
+Generated energy production report (images being sourced)
 
 ---
 
 ## Industrial Solar - Troubleshooting and Site Repair 
-
-<div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
-  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
-</div>
-Testing wind turbine with a wind generator and hot wire anemometer
+Part of my role at Mynt Systems was system troubleshooting for both residental and commercial arrays. I flagged any production discrepencies between the expected and actual electrical generation to investigate before our installation crew could be called to the sites. On multiple occassions, I restored over 90% of the system production by identifying and switching off faulty strings until replacement parts could be ordered.
