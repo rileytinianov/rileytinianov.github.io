@@ -9,7 +9,7 @@ skills:
 - Meshing
 - Result Interpretation
 - Analytical Confirmation
-main-image: /SreeramPaper.jpg
+main-image: /TooMuchStress.jpg
 
 ---
 
