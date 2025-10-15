@@ -9,7 +9,7 @@ skills:
 - Meshing
 - Result Interpretation
 - Analytical Confirmation
-main-image: /SolarField.jpg
+main-image: /SolarField2.jpg
 
 ---
 
