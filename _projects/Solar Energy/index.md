@@ -16,20 +16,12 @@ main-image: /GraniterockHQ.jpg
 ---
 
 ## Agrivoltaics - Overview
-Agrivoltaics is the practice of placing solar panels over orchards or vegetable fields to generate electricity while preventing crop overheating or sunburn. I led the 3D design, energy modeling, and data analysis of over 670 agrivoltaic sites across Washington State. This project was funded by the Washington Department of Commerce to distribute clean energy grants and involved collaboration with The Nature Conservancy and American Farmland Trust. 
+Agrivoltaics is the practice of placing solar panels over orchards or vegetable fields to generate electricity while preventing crop overheating or sunburn. I led the 3D design, energy modeling, and data analysis of over 670 agrivoltaic sites across Washington State. This project was funded by the Washington Department of Commerce to distribute clean energy grants and involved collaboration with The Nature Conservancy and American Farmland Trust. The images here are sourced from our published report, found [here](https://www.researchgate.net/publication/393794180_Low_hanging_fruit_for_Washington's_energy_future_Agrivoltaic_feasibility_for_agricultural_and_energy_resilience_in_the_Evergreen_State). I've co-authored two more reports with broader modeling, which are being published by the Spatial Climate Solutions Lab.
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/AgrivoltaicsCoverPhoto.jpg" height="270" alt="Hub1">
 </div>
-My image of a quasi-static capillary bridge and the corresponding length of bridge before rupture 
-<br>
-
-To prevent instant evaporation at such low volumes, I built and programmed a PID-controlled humidity chamber to maintain the fluid volume while preventing condensation. To allow for actuation of the force sensor setup, the humidity chamber had to be easily disassembleable and not impede the motion of the linear track.
-
-<div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/SreeramTestingSetup.jpg" height="270" alt="Hub1">
-</div>
-Image of the testing setup, including humidity chamber
+Artist rendition of crops and livestock under photovoltaics
 
 ---
 
