@@ -23,12 +23,13 @@ I modeled a green-energy refractory furnace as part of my application material f
 3D plot of the furnace's energy efficiency using my Brayton Cycle analysis and the steady-state temperature distribution in COMSOL
 <br>
 
-To prevent instant evaporation at such low volumes, I built and programmed a PID-controlled humidity chamber to maintain the fluid volume while preventing condensation. To allow for actuation of the force sensor setup, the humidity chamber had to be easily disassembleable and not impede the motion of the linear track.
+I ran a series of transient studies to measure the lifecycle of the furnace with the insulation design described in the patent. I quickly found that the stress experienced during the heating/cooling cycle was much higher than allowable material values, and that the temperature at the furnace's surface was too hot to comfortably work around during operation. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/SreeramTestingSetup.jpg" height="270" alt="Hub1">
+  <img src="/imagesreal/TooMuchStress.jpg" height="270" alt="Hub1">
+  <img src="/imagesreal/TempDistrib1.jpg" height="270" alt="Hub1">  
 </div>
-Image of the testing setup, including humidity chamber
+COMSOL results showing the furnace stress distribution and transient temperature during operation and cooling
 
 ---
 
