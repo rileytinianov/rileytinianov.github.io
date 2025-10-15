@@ -63,8 +63,9 @@ My functions of chord length and force calculations over the length of the blade
 </div>
 My functions of chord length and force calculations over the length of the blade
 
-## Turbine Testing
-I then modeled the turbine using Solidworks and printed it in SLS. It was tested using a small-scale wind tunnel and PMDC motor, where the turbine's power generation could be deduced by spanning a resistor across the motor terminals and measuring the speed of rotation. The experimental results aligned with the theoretical performance calculations, although there were some optimal tip speed ratio discrepancies. 
+---
+
+## Industrial Solar - Overview
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
@@ -74,3 +75,31 @@ Testing wind turbine with a wind generator and hot wire anemometer
 
 ---
 
+
+## Industrial Solar - Site Design and Modeling
+
+<div style="display: flex; gap: 10px;">
+  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
+  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
+</div>
+Testing wind turbine with a wind generator and hot wire anemometer
+
+---
+
+## Industrial Solar - Production Metrics and Reporting
+
+<div style="display: flex; gap: 10px;">
+  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
+  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
+</div>
+Testing wind turbine with a wind generator and hot wire anemometer
+
+---
+
+## Industrial Solar - Troubleshooting and Site Repair 
+
+<div style="display: flex; gap: 10px;">
+  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
+  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
+</div>
+Testing wind turbine with a wind generator and hot wire anemometer
