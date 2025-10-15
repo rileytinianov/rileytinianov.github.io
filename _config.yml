@@ -16,12 +16,13 @@ name: Riley Tinianov
 headline: Building, learning, making cool stuff
 description: >- # dont remove this line. this will ignore all new lines until the next section
 
-  Thanks for taking the time to view my portfolio! I'm a mechanical engineering student in the 
-  final year of my master's program, originally from the Bay Area. I'm interested in aerospace,  
-  robotics, and sustainability, and I love hands-on projects—whether it's designing, building,
-  or just figuring out how things work. As I head into industry, I'm excited to find a fulfilling
-  job where I can make a positive impact. 
-
+  Thanks for taking the time to view my portfolio! I recently graduated with my master's in 
+  mechanical engineering from UC Santa Barbara, now living in San Diego. I'm looking for a career 
+  in sustainability, aerospace, robotics, or medical devices, and I love hands-on projects. 
+  Whether it's prototyping, designing, or troubleshooting, I love figuring out how things work. 
+  I built this portfolio to highlight some of my work and recent projects, mostly in the research 
+  sector. Please feel free to reach out to me if you have any questions or you'd like to learn more!
+  
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/2024headshot.jpg
 
@@ -51,24 +52,30 @@ skills:
   - category: 3D Modeling
     tools:
     - Solidworks
-    - Fusion 360 (Autodesk)
-    - COMSOL
+    - AutoCAD
+    - COMSOL/ANSYS
+    - Computational Fluid Dynamics (CFD)
+    - PVSyst
   - category: Prototyping
     tools:
-    - SLA
+    - SLA/FDM
     - CNC
-    - FDM
-    - Laser Cutting
-    - Water Jet Cutting
+    - Laser/Water Jet Cutting
     - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
+    - Soldering
+    - PCB Design
+    - Circuit testing (oscilloscope, LabVIEW)
   - category: Design Standards / Practices
     tools:
     - GD&T ASME Y14.5
     - ISO fits and tolerances  
-  - category: PCB Design
-    tools:
-    - EasyEDA
+  - category: Coursework
+    tools: 
+    - Fluid Mechanics
+    - Thermodynamics
+    - Machine design/Manufacturing
+    - Mechatronics
+    - Robotics Design
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
