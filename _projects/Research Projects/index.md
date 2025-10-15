@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Multiphysics Simulations
-description:  This section details my work in the two fluids labs I worked in during college. In the Multiphase and Multiscale lab, I experimented on micro-scale fluids to validate analytical capillary bridge models. I built and programmed a PID-controlled humidity chamber to prevent any evaporation during the testing process. In the Fluid Energy Science Lab, I designed, 3D printed, and tested a scale wind turbine using XFOIL to test optimal rotor theory. I later experimented on airborne wind turbines by taking wind tunnel wake measurements and validating entrainment theory models. 
+description: I've worked with (primarily) COMSOL to simulate fluid/structural/thermal interactions, either for industrial applications and design improvements or purely to hone my skills in matching numerical modeling with analytical/experimental results. I show snippets of several of my recent projects here, and would be happy to give more complete techinical reports of each upon request.
+
 skills: 
 - COMSOL
 - Coupled Simulations
@@ -12,14 +13,14 @@ main-image: /SreeramPaper.jpg
 
 ---
 
-## Full Cycle Furnace Design
-I used high-speed cameras to capture videos of capillary bridges suspended between slowly separating spheres. By post-processing the image with Python, I was able to measure the specific volume for every frame and compare it to a continuous measurement of the force between particles. This work is being published as Sreeram Rajesh's PhD dissertation on axial forces in liquid bridges. 
+## Cleansheet Furnace Design
+I modeled a green-energy refractory furnace as part of my application material for a local company in COMSOL. Working from the company patent and using company-reported energy metrics I found online, I was able to simulate the furnace's total thermal storage capacity and potential for electrical generation. I also found the steady-state radial temperature distribution to later measure internal stresses in the insulation.
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/SreeramBridgeImage.jpg" height="270" alt="Hub1">
-  <img src="/imagesreal/SreeramBreakingForce.jpg" height="270" alt="Hub2">
+  <img src="/imagesreal/BraytonCycle.jpg" height="270" alt="Hub1">
+  <img src="/imagesreal/RadialTempDistribution.jpg" height="270" alt="Hub2">
 </div>
-My image of a quasi-static capillary bridge and the corresponding length of bridge before rupture 
+3D plot of the furnace's energy efficiency using my Brayton Cycle analysis and the steady-state temperature distribution in COMSOL
 <br>
 
 To prevent instant evaporation at such low volumes, I built and programmed a PID-controlled humidity chamber to maintain the fluid volume while preventing condensation. To allow for actuation of the force sensor setup, the humidity chamber had to be easily disassembleable and not impede the motion of the linear track.
