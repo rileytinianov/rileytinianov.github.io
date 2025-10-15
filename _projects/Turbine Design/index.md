@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fluids Research
+title: Fluids Research (Microfluids, Airfoil Testing/Design, Wind Energy)
 description:  This section details my work in the two fluids labs I worked in during college. In the Multiphase and Multiscale lab, I experimented on micro-scale fluids to validate analytical capillary bridge models. I built and programmed a PID-controlled humidity chamber to prevent any evaporation during the testing process. In the Fluid Energy Science Lab, I designed, 3D printed, and tested a scale wind turbine using XFOIL to test optimal rotor theory. I later experimented on airborne wind turbines by taking wind tunnel wake measurements and validating entrainment theory models. 
 skills: 
 - Solidworks
