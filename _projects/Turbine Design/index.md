@@ -49,8 +49,8 @@ Wind tunnel testing apparatus and comparison of measured/analytical annular wake
 I used computational fluid dynamics (CFD) to design an optimize a scale wind turbine as part of a green energy project during college. To design the turbine I chose airfoil an existing airfoil (S8038) for its high Cl/Cd at low Re. I then iterated through Reynolds numbers and angles of attack using XFOIL to optimize the chord length across the blade and ensure structural integrity at characteristic operating speeds.
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/ChordRefinement.png" height="300" alt="Hub1">
-  <img src="/imagesreal/ForceDistribution.png" height="300" alt="Hub3">
+  <img src="/imagesreal/ChordRefinement.png" height="250" alt="Hub1">
+  <img src="/imagesreal/ForceDistribution.png" height="250" alt="Hub3">
 </div>
 My functions of chord length and force calculations over the length of the blade
 
