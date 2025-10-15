@@ -9,7 +9,7 @@ skills:
 - Lathe
 - Drill Press
 - CNC Programming
-main-image: /ASSEM - Full Robot.PNG 
+main-image: /UCSBMachineShop.jpg
 ---
 
 ## Delta Robot - Overview
