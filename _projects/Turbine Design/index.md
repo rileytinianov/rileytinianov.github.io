@@ -40,7 +40,7 @@ I assisted in research confirming an annular wake model for airborne wind turbin
   <img src="/imagesreal/WindTunnelExperimentalSetup.png" height="270" alt="Hub1">
   <img src="/imagesreal/WindTunnelResultsSD.jpg" height="270" alt="Hub2">
 </div>
-Wind tunnel testing apparatus and comparison of measured/aanalytical annular wake development
+Wind tunnel testing apparatus and comparison of measured/analytical annular wake development in Matlab
 <br>
 
 ---
