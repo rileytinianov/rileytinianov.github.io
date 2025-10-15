@@ -38,7 +38,7 @@ Batch calls to PVSyst were made using the PVSyst CLI tool, which I operated thro
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/RedwanSunburnRisk.jpg" height="300" alt="Hub1">
-  <img src="/imagesreal/StrawberryYieldReduction" height="300" alt="Hub3">
+  <img src="/imagesreal/StrawberryYieldReduction.jpg" height="300" alt="Hub3">
 </div>
 Apple sunburn risk and percentage yield of strawberries at representative Washington locations
 
