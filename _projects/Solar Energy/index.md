@@ -11,7 +11,7 @@ skills:
 - Energy Metrics
 - Construction Planning
 - Customer Reporting
-main-image: /SreeramPaper.jpg
+main-image: /GraniterockHQ.jpg
 
 ---
 
