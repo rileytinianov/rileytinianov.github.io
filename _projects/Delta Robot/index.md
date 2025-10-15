@@ -1,28 +1,19 @@
 ---
 layout: post
-title: Delta Robot
-description:  This delta robot is an in-progress project I've been working on since mid-April. As someone who enjoyed taking robotics classes at UCSB, I decided to make a delta robot demonstration to visualize end-effector kinematics. 
+title: CAD and Prototyping
+description:  This section is a miscillaneous place to show off a few designs/prototypes I made during my time at UCSB. I began work on a delta robot to use as a robotics demonstration for underclassmen, but funding was halted before the hardware could be completed. I also designed and machined a metal airmotor as a machine shop project.
+
 skills: 
 - Solidworks
 - Laser Cutting
 - Lathe
-- Rapid Prototyping
-- CNC G-Code
+- Drill Press
+- CNC Programming
 main-image: /ASSEM - Full Robot.PNG 
 ---
 
-## Overview
-Delta robots are a type of pick-and-place robot, often used in the food industry or on assembly lines. This delta robot is being made from acrylic, PLA, and parts ordered online. A modified CNC kit and Arduino shield are used to control the motors. The end goal of this solo project is to outfit the end effector with a laser head to engrave pictures or symbols during demos. 
-
-<div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/FullRobot.png" height="300" alt="Hub1">
-</div>
-View of robot after first assembly
-
----
-
-## CAD
-All parts of the robot were designed and assembled in Solidworks to ensure meshing between components. 
+## Delta Robot - Overview
+Delta robots are a type of pick-and-place robot, often used in the food industry or on assembly lines. This delta robot was designed using acrylic, PLA, and parts from McMaster-Carr. A modified CNC kit and Arduino shield were used to control the motors. The end goal of this solo project was to outfit the end effector with a laser head to engrave pictures or symbols during demos. All parts of the robot were designed and assembled in Solidworks with to proper GD&T standards to ensure proper hole sizes and interference fits. 
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/ASSEM - Full Robot.PNG" height="500" alt="Hub1">
@@ -31,13 +22,16 @@ All parts of the robot were designed and assembled in Solidworks to ensure meshi
 
 ---
 
-## Manufacturing
-The robot is made primarily of PLA and acrylic, which were 3D-printed and laser cut respectively. All universal joints hinge on wooden dowel axles, which were sawed and lathed to ensure proper fit. Any steel components were ordered directly from McMaster Carr and modified in-house. GD&T specifications were followed to ensure proper hole sizes and interference fits. 
+## Delta Robot - Manufacturing
+The robot is made primarily of PLA and acrylic, which were 3D-printed and laser cut respectively. All universal joints hinge on wooden dowel axles, which were sawed and lathed to ensure proper fit. Any steel components were ordered directly from McMaster Carr and modified in-house. Progress on the robot stopped when I graduated as I was no longer able to order the parts needed to finalize the design.
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/3D parts.png" height="300" alt="Hub1">
+  <img src="/imagesreal/FullRobot.png" height="300" alt="Hub1">
 </div>
 Initial acrylic design and assembly
 
 ---
+
+## Air Motor 
 
