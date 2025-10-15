@@ -66,12 +66,7 @@ My functions of chord length and force calculations over the length of the blade
 ---
 
 ## Industrial Solar - Overview
-
-<div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
-  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
-</div>
-Testing wind turbine with a wind generator and hot wire anemometer
+I worked for two years at Mynt Systems, beginning as an Intern and getting promoted to Junior Design Engineer. My work spanned all the full-cycle PV design and installation process, working on both the design mock-ups during the sales process and for-construction designs. I also helped with BOM generation and supply during the construction process, as well as doing client-side site reporting and repair. My time at Mynt ended in the Spring Quarter of my Senior year, when I started TAing undergraduate classes.  
 
 ---
 
@@ -89,11 +84,6 @@ Post-construction Helioscope model and corresponding SLD
 
 ## Industrial Solar - Production Metrics and Reporting
 I generated monthly reports using actual vs. synthesized production data as part of my role on the site management and client-facing side at Mynt Systems. Prior to my inclusion on the team, reports were generated manually and had an average turnaround time of three days. I hired and managed a third-party contractor to write PHP code and scrape the SolarEdge API. I then automated the report generation process in JavaScript to generate 50+ monthly production reports within the hour. 
-
-<div style="display: flex; gap: 10px;">
-
-</div>
-Generated energy production report (images being sourced)
 
 ---
 
