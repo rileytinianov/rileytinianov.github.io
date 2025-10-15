@@ -19,8 +19,7 @@ main-image: /GraniterockHQ.jpg
 Agrivoltaics is the practice of placing solar panels over orchards or vegetable fields to generate electricity while preventing crop overheating or sunburn. I led the 3D design, energy modeling, and data analysis of over 670 agrivoltaic sites across Washington State. This project was funded by the Washington Department of Commerce to distribute clean energy grants and involved collaboration with The Nature Conservancy and American Farmland Trust. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/SreeramBridgeImage.jpg" height="270" alt="Hub1">
-  <img src="/imagesreal/SreeramBreakingForce.jpg" height="270" alt="Hub2">
+  <img src="/imagesreal/AgrivoltaicsCoverPhoto.jpg" height="270" alt="Hub1">
 </div>
 My image of a quasi-static capillary bridge and the corresponding length of bridge before rupture 
 <br>
