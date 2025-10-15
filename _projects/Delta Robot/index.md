@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CAD and Prototyping
-description:  This section is a miscillaneous place to show off a few designs/prototypes I made during my time at UCSB. I began work on a delta robot to use as a robotics demonstration for underclassmen, but funding was halted before the hardware could be completed. I also designed and machined a metal airmotor as a machine shop project.
+description:  This section shows off a few miscellaneous designs/prototypes I made during my time at UCSB. I began work on a delta robot to use as a robotics demonstration for underclassmen, but funding was halted before the hardware could be completed. I also designed and machined a metal airmotor as a machine shop project.
 
 skills: 
 - Solidworks
