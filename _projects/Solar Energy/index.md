@@ -49,7 +49,9 @@ Energy metrics like capacity factor, energy density, and LCOE were evaulated at 
   <img src="/imagesreal/EnergyMetricsTenSites.jpg" height="300" alt="Hub1">
 </div>
 A. Energy density of three designs at representative locations 
+<br>
 B. Raw Global Horizontal Irradiance values across Washington State
+<br>
 C. Representative energy density for agrivoltaic designs compared to PV-only solar farms
 
 ---
