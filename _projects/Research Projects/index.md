@@ -35,6 +35,7 @@ COMSOL results showing the furnace stress distribution and transient temperature
 Finially, I redesigned the furnace with a different insulation order to drastically reduce the stress experienced and lower the outer surface temperature. The results can be seen below. 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/ImprovedStress.jpg" height="270" alt="Hub1">
+  <img src="/imagesreal/TemperatureImproved.jpg" height="270" alt="Hub1">  
 </div>
 
 ---
