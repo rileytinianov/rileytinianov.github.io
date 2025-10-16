@@ -30,6 +30,12 @@ I ran a series of transient studies to measure the lifecycle of the furnace with
   <img src="/imagesreal/TempDistrib1.jpg" height="270" alt="Hub1">  
 </div>
 COMSOL results showing the furnace stress distribution and transient temperature during operation and cooling
+<br>
+
+Finially, I redesigned the furnace with a different insulation order to drastically reduce the stress experienced and lower the outer surface temperature. The results can be seen below. 
+<div style="display: flex; gap: 10px;">
+  <img src="/imagesreal/ImprovedStress.jpg" height="270" alt="Hub1">
+</div>
 
 ---
 
