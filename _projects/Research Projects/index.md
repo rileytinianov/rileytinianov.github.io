@@ -14,7 +14,7 @@ main-image: /SolarField3.jpg
 ---
 
 ## Cleansheet Furnace Design
-I modeled a green-energy refractory furnace as part of my application material for a local company in COMSOL. Working from the company patent and using company-reported energy metrics I found online, I was able to simulate the furnace's total thermal storage capacity and potential for electrical generation. I also found the steady-state radial temperature distribution to later measure internal stresses in the insulation.
+I modeled a green-energy refractory furnace in COMSOL as part of my application material for a local sustainable heating company. Working from the company patent and using company-reported energy metrics I found online, I was able to simulate the furnace's total thermal storage capacity and potential for electrical generation. I also found the steady-state radial temperature distribution to later measure internal stresses in the insulation.
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/BraytonCycle_Real.jpg" height="270" alt="Hub1">
