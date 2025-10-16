@@ -18,10 +18,10 @@ description: >- # dont remove this line. this will ignore all new lines until th
 
   Thanks for taking the time to view my portfolio! I recently graduated with my master's in 
   mechanical engineering from UC Santa Barbara, now living in San Diego. I'm looking for a career 
-  in sustainability, aerospace, robotics, or medical devices, and I love hands-on projects. 
-  Whether it's prototyping, designing, or troubleshooting, I love figuring out how things work. 
-  I built this portfolio to highlight some of my work and recent projects, mostly in the research 
-  sector. Please feel free to reach out to me if you have any questions or you'd like to learn more!
+  in sustainability, aerospace, robotics, or medical devices. Whether it's prototyping, designing,
+  or troubleshooting, I love figuring out how things work. I built this portfolio to highlight some
+  of my work and recent projects, mostly in the research sector. Please feel free to reach out to me
+  if you have any questions or you'd like to learn more!
   
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/2024headshot.jpg
