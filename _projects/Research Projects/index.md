@@ -23,7 +23,7 @@ I modeled a green-energy refractory furnace in COMSOL as part of my application 
 3D plot of the furnace's energy efficiency using my Brayton Cycle analysis and the steady-state temperature distribution in COMSOL
 <br>
 
-I ran a series of transient studies to measure the lifecycle of the furnace with the insulation design described in the patent. I quickly found that the stress experienced during the heating/cooling cycle was much higher than allowable material values, and that the temperature at the furnace's surface was too hot to comfortably work around during operation. 
+I ran a series of transient studies to measure the lifecycle of the furnace with the insulation design described in the patent. I found that the stress experienced during the heating/cooling cycle was much higher than allowable material values, and that the temperature at the furnace's surface was too hot to comfortably work around during operation. 
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/TooMuchStress.jpg" height="270" alt="Hub1">
@@ -50,6 +50,17 @@ I explored the boundary layer development and wind speed reduction in agrivoltai
 </div>
 Close-up mesh of the boundary layer control volume and surface pressure of the system
 <br>
+
+---
+
+## Wave Evolution in Lake
+I modeled the 2-dimensional wave dynamics of a lake with an initial Gaussian disturbance to solve Feynman's inverse wave problem. I showed agreement with the shallow wave approximation in 2D and 1D to confirm my mesh resolution and boundary conditions before optimizing the PDE to best match outer boundary hydrograph data. 
+
+<div style="display: flex; gap: 10px;">
+  <img src="/imagesreal/ShallowWaveConfirmation.jpg" height="250" alt="Hub2">
+  <img src="/imagesreal/OptimizationResults.jpg" height="250" alt="Hub1">
+</div>
+These images show agreement between the shallow wave approximation and numerical solution and agreement between experimental hydrograph data and my optimized PDE
 
 ---
 
