@@ -64,28 +64,6 @@ These images show agreement between the shallow wave approximation and numerical
 
 ---
 
-## Lava Flow Rheology
-I used computational fluid dynamics (CFD) to design an optimize a scale wind turbine as part of a green energy project during college. To design the turbine I chose airfoil an existing airfoil (S8038) for its high Cl/Cd at low Re. I then iterated through Reynolds numbers and angles of attack using XFOIL to optimize the chord length across the blade and ensure structural integrity at characteristic operating speeds.
-
-<div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/ChordRefinement.png" height="300" alt="Hub1">
-  <img src="/imagesreal/ForceDistribution.png" height="300" alt="Hub3">
-</div>
-My functions of chord length and force calculations over the length of the blade
-
----
-
-## Gravity Current Leveling
-I then modeled the turbine using Solidworks and printed it in SLS. It was tested using a small-scale wind tunnel and PMDC motor, where the turbine's power generation could be deduced by spanning a resistor across the motor terminals and measuring the speed of rotation. The experimental results aligned with the theoretical performance calculations, although there were some optimal tip speed ratio discrepancies. 
-
-<div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
-  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
-</div>
-Testing wind turbine with a wind generator and hot wire anemometer
-
----
-
 ## Transient Ice Sheet Growth
 I confirmed transient ice growth analytical models proposed by Huybrechts and Payne for large-scale ice sheets. I was able to show perfect agreement in the ice profiles and mass flux throughout the sheet in both the 2D and 3D case. I also introduced and solved the growth profiles with a periodic condition to simulate environmental patterns over a 500 year cycle. 
 
@@ -97,9 +75,23 @@ Comparison between my numerical solution and the analytical profile suggested by
 
 ---
 
+## Gravity Current Leveling
+I studied the transient leveling of free-surface peturbations for both the Newtonian and Bingham cases. This included a PDE-driven characterization from the small perturbation expansion formula being implemmented into COMSOL and a comparison between the  analytical and numemrical solutions for different fluid parameters. In the non-Newtonian case, I added a yield stress and plastic viscosity to study how the results developed differently. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
-  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
+  <img src="/imagesreal/FreeSurfaceNewtonian.jpg" height="250" alt="Hub2">
+  <img src="/imagesreal/FreeSurfaceBingham.jpg" height="250" alt="Hub1">
 </div>
-Testing wind turbine with a wind generator and hot wire anemometer
+Graphs of the fluid's free surface in both the Newtonian and Bingham case. Note that the Bingham rheology has a linear profile as it levels to minimize shear stress. 
+
+---
+
+## Lava Flow Rheology
+I used computational fluid dynamics (CFD) to design an optimize a scale wind turbine as part of a green energy project during college. To design the turbine I chose airfoil an existing airfoil (S8038) for its high Cl/Cd at low Re. I then iterated through Reynolds numbers and angles of attack using XFOIL to optimize the chord length across the blade and ensure structural integrity at characteristic operating speeds.
+
+<div style="display: flex; gap: 10px;">
+  <img src="/imagesreal/ChordRefinement.png" height="300" alt="Hub1">
+  <img src="/imagesreal/ForceDistribution.png" height="300" alt="Hub3">
+</div>
+My functions of chord length and force calculations over the length of the blade
+---
