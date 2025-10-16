@@ -87,11 +87,11 @@ Graphs of the fluid's free surface in both the Newtonian and Bingham case. Note 
 ---
 
 ## Lava Flow Rheology
-I used computational fluid dynamics (CFD) to design an optimize a scale wind turbine as part of a green energy project during college. To design the turbine I chose airfoil an existing airfoil (S8038) for its high Cl/Cd at low Re. I then iterated through Reynolds numbers and angles of attack using XFOIL to optimize the chord length across the blade and ensure structural integrity at characteristic operating speeds.
+I studied the rheology of high-viscosity lava flow in rectangular channels as presented by Tallarico and Dragoni. I used the Power Law profile for non-Newtonian viscosities to match my velocity profile to their analytical solution, for which I wrote an iterative solver to help inform my COMSOL mesh sizing. I was able to show perfect agreement between their solution and my manufactured one, both in terms of velocity and shear stress profiles throughout the flow's cross section. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/ChordRefinement.png" height="300" alt="Hub1">
-  <img src="/imagesreal/ForceDistribution.png" height="300" alt="Hub3">
+  <img src="/imagesreal/NumericalLava.jpg" height="300" alt="Hub1">
+  <img src="/imagesreal/AnalyticalLava.jpg" height="300" alt="Hub3">
 </div>
-My functions of chord length and force calculations over the length of the blade
+My optimized numerical velocity profile compared to Tallarico and Dragoni's analytical solution
 ---
