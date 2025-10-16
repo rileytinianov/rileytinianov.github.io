@@ -87,18 +87,16 @@ Testing wind turbine with a wind generator and hot wire anemometer
 ---
 
 ## Transient Ice Sheet Growth
-I then modeled the turbine using Solidworks and printed it in SLS. It was tested using a small-scale wind tunnel and PMDC motor, where the turbine's power generation could be deduced by spanning a resistor across the motor terminals and measuring the speed of rotation. The experimental results aligned with the theoretical performance calculations, although there were some optimal tip speed ratio discrepancies. 
+I confirmed transient ice growth analytical models proposed by Huybrechts and Payne for large-scale ice sheets. I was able to show perfect agreement in the ice profiles and mass flux throughout the sheet in both the 2D and 3D case. I also introduced and solved the growth profiles with a periodic condition to simulate environmental patterns over a 500 year cycle. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
-  <img src="/imagesreal/TunnelTesting.PNG" height="250" alt="Hub1">
+  <img src="/imagesreal/ComsolContour.jpg" height="250" alt="Hub2">
+  <img src="/imagesreal/AnalyticalContour.jpg" height="250" alt="Hub1">
 </div>
-Testing wind turbine with a wind generator and hot wire anemometer
+Comparison between my numerical solution and the analytical profile suggested by Huybrechts and Payne
 
 ---
 
-## Wave Evolution in Lake
-I then modeled the turbine using Solidworks and printed it in SLS. It was tested using a small-scale wind tunnel and PMDC motor, where the turbine's power generation could be deduced by spanning a resistor across the motor terminals and measuring the speed of rotation. The experimental results aligned with the theoretical performance calculations, although there were some optimal tip speed ratio discrepancies. 
 
 <div style="display: flex; gap: 10px;">
   <img src="/imagesreal/printedturbine.jpg" height="250" alt="Hub2">
