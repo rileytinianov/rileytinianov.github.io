@@ -41,13 +41,14 @@ Finially, I redesigned the furnace with a different insulation order to drastica
 ---
 
 ## Boundary Layer Development in Orchards
-I assisted in research confirming an annular wake model for airborne wind turbines, closely following the entrainment theory for wind turbines by Dr. Luzzatto-Fegiz (pictured above). Experimental measurements were taken in the UC Santa Barbara wind tunnel by suspending porous discs and measuring localized flow velocity at various distances downstream of the discs. The results of these experiments are being published as part of the PhD dissertation of Sam Kaufman-Martin at UCSB. 
+I explored the boundary layer development and wind speed reduction in agrivoltaic orchards to confirm approximate models found during literature review. This project studied fluid-structure interaction and required a detailed, custom mesh. Trellised apple trees were modeled as uniform rods and the geometry was reflected multiple times to give insights into an orchard at scale. The results from this study helped confirm our agrivoltaic wind speed scaling. 
+
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/WindTunnelExperimentalSetup.png" height="270" alt="Hub1">
-  <img src="/imagesreal/WindTunnelResultsSD.jpg" height="270" alt="Hub2">
+  <img src="/imagesreal/MeshStructure.jpg" height="270" alt="Hub1">
+  <img src="/imagesreal/SurfacePressure.jpg" height="270" alt="Hub2">
 </div>
-Wind tunnel testing apparatus and comparison of measured/analytical annular wake development in Matlab
+Close-up mesh of the boundary layer control volume and surface pressure of the system
 <br>
 
 ---
