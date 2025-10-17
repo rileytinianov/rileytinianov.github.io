@@ -36,6 +36,6 @@ Initial acrylic design and assembly
 I made a compressed air motor as part of my undergraduate machine shop class at UC Santa Barbara. This project involved tolerancing and machining 6 seperate parts from steel, aluminum and brass stock. During the project, I manufactured the parts from engineering drawings using a drill press, lathe, and CNC machine. My motor reached speeds of 2500+ RPM when compressed air was applied to the nozzle. 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/imagesreal/AirMotor2.jpg" height="300" alt="Hub1">
+  <img src="/imagesreal/AirMotor2.jpg" height="350" alt="Hub1">
 </div>
 Image of completed air motor
